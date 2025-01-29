@@ -1,5 +1,3 @@
-//this API key has been disabled for github
-const API_KEY = "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"
 const submitButton = document.querySelector('#submit')
 const outPutElement = document.querySelector('#output')
 const inputElement = document.querySelector('input')
